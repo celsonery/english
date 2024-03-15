@@ -266,21 +266,54 @@
 - Nick – Ok Joyce, thank you… See you…
 
 ##### Aula 27 - To start - To finish
+
 ##### Aula 28 - To take - To stay
+- Jorge – Hey Sara… What do you like to do when you stay home during the week?
+- Sara – Hi Jorge… I like to read anything, to cook and to play with my kids… Sometimes I take my kids to the park or to the movies… what about you?
+- Jorge – oh, That’s cool… I like to stay at home and to watch soccer games all day, and during the game I drink
+- beer and I eat chips… Sometimes I take my wife to work and then I go back home to stay there.
+- Sara – You love to watch soccer game. Don’t you?
+- Jorge – Yeah, I love but my family don’t, so I prefer to watch with my beer hahaha!
+- Sara – I prefer to drink soda…!
+
 ##### Aula 29 - To know
+- Jimmy – Good morning Ashley… Do you cook rice and beans for lunch for my kids today?
+- Ashley – Good morning Jimmy… Today I have violin class at 11 a. m. and probably I arrive after lunch and I don’t know how to cook rice and beans
+- Jimmy – Ok, What do you cook?
+- Ashley – I know how to cook pasta, hamburger and potatoes…
+- Jimmy – Do you know anyone that know how to cook rice and beans?
+- Ashley – I think that my mom and my sister know how to cook both.
+- Jimmy – Very good, I talk to them to cook for my kids today then
+
 ##### Aula 30 - To say - To learn
+
 ##### Aula 31 - He, She, It
+
 ##### Aula 32 - He, She, It - part 2
+
 ##### Aula 33 - He, She, It - part 3
+
 ##### Aula 34 - He, She, It - part 4/5/6
+
 ##### Aula 35 - Past part 1
+
 ##### Aula 36 - Past part 2
+
 ##### Aula 37 - Past part 3
+
 ##### Aula 38 - Past part 4
+
 ##### Aula 39 - To use - animals
+
 ##### Aula 40 - To see and to watch
+
 ##### Aula 41 - Future - Part 1
+
 ##### Aula 42 - Future - Part 2
+
 ##### Aula 43 - Future - Part 3
+
 ##### Aula 44 - Future - Part 4
+
 ##### Aula 45 - Songs and movies
+

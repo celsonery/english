@@ -171,21 +171,55 @@
 - Don’t you like to close the window when it’s raining?
 
 ##### Aula 27 - To start - To finish
+- I start reading a book at 9:00 p. m. in my bedroom.
+- I don’t finish doing the dishes in the morning.
+- What time do you want to start your guitar class?
+- Don’t you like to start working in the morning?
+
 ##### Aula 28 - To take - To stay
+- I take my kids to school from Monday to Friday.
+- I don’t stay at home during the week because I work.
+- When do you want to take your husband to the restaurant?
+- Don’t you like to stay at home alone?
+
 ##### Aula 29 - To know
+- I know how to play the violin.
+- I don’t know that you open your store at 8 o’clock.
+- Do you know how to go to the Mall?
+- Don’t you know that I cook very well?
+
 ##### Aula 30 - To say - To learn
+- I know how to say many words in English.
+- I don’t want to learn Portuguese, I prefer to learn Math.
+- Do you know how to say “Argentina” in Chinese?
+- Don’t you need to learn English this year?
+
 ##### Aula 31 - He, She, It
+
 ##### Aula 32 - He, She, It - part 2
+
 ##### Aula 33 - He, She, It - part 3
+
 ##### Aula 34 - He, She, It - part 4/5/6
+
 ##### Aula 35 - Past part 1
+
 ##### Aula 36 - Past part 2
+
 ##### Aula 37 - Past part 3
+
 ##### Aula 38 - Past part 4
+
 ##### Aula 39 - To use - animals
+
 ##### Aula 40 - To see and to watch
+
 ##### Aula 41 - Future - Part 1
+
 ##### Aula 42 - Future - Part 2
+
 ##### Aula 43 - Future - Part 3
+
 ##### Aula 44 - Future - Part 4
+
 ##### Aula 45 - Songs and movies

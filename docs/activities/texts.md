@@ -259,21 +259,58 @@ On weekends, my wife, my kids and I go to the movies or to the theater.
 - Don’t you want to open the school today for me? I need to go to the doctor in the morning.
 
 ##### Aula 27 - To start - To finish
+- I always wake up very early and then I have my delicious breakfast alone, but before I go to work I kiss my wife and my kids, so every day I go to their bedroom and I kiss them. I usually work from Monday to Friday until 5 am, but when I finish my job at the company early I like to go to school pick up the kids and then I go home to play with them, they love it, we always play video games or cards, until my wife get home. Then I watch some tv and my wife cook our dinner and then we have dinner together, I have a wonderful family.
+
+- I start working at 07:00 a. m. and I finish around 05:00 p. m.
+- I don’t start my piano class in the morning because I have to do the dishes for my mother and clean the house.
+- Do you usually finish your exercises at 8 a. m.? What do you do after the exercises?
+- Don’t you want to finish the English classes this year? Do you study English every day?
+
 ##### Aula 28 - To take - To stay
+- I love to take my kids to the movies on the weekends and then to eat Mc Donald’s and to drink coke.
+- I don’t like to stay at the beach when it’s raining, I prefer to stay there when it’s sunny.
+- Do you need to take your son to the dentist every month?
+- Don’t you want to stay in my house with me and to watch a comedy movie, to eat popcorn and to drink something?
+
 ##### Aula 29 - To know
+- I know that you speak English and Spanish very well, but I know that you don’t speak Portuguese. Right?
+- I don’t know how to play the piano, but I know how to play the violin very well, because I play the violin since child.
+- Do you know that I have to write e-mails every day for my coworkers? I hate it.
+- Don’t you know that I know that you know? Or do you know that I know that you know?? - I don’t know
+
 ##### Aula 30 - To say - To learn
+- I need to learn how to speak in English because I want to travel to the USA this year to study there.
+- I don’t want to learn Portuguese at school because I hate it. I prefer to learn Math, I love Math.
+- Do you know how to say “amor” in English? I want to write a letter to my husband.
+- Don’t you know how to say this word in Spanish? I want to learn until next week because I go to Spain to visit my relatives
+
 ##### Aula 31 - He, She, It
+
 ##### Aula 32 - He, She, It - part 2
+
 ##### Aula 33 - He, She, It - part 3
+
 ##### Aula 34 - He, She, It - part 4/5/6
+
 ##### Aula 35 - Past part 1
+
 ##### Aula 36 - Past part 2
+
 ##### Aula 37 - Past part 3
+
 ##### Aula 38 - Past part 4
+
 ##### Aula 39 - To use - animals
+
 ##### Aula 40 - To see and to watch
+
 ##### Aula 41 - Future - Part 1
+
 ##### Aula 42 - Future - Part 2
+
 ##### Aula 43 - Future - Part 3
+
 ##### Aula 44 - Future - Part 4
+
 ##### Aula 45 - Songs and movies
+
