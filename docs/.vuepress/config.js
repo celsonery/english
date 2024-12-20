@@ -5,7 +5,7 @@ import { defineUserConfig } from 'vuepress'
 export default defineUserConfig({
   head: [['link', {rel: 'icon', href: '/images/hero.png'}]],
   bundler: viteBundler(),
-  base: '/',
+  base: '/english/',
   theme: defaultTheme({
     docsRepo: 'https://github.com/celsonery/english',
     docsBranch: 'main',
