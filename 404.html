@@ -1,235 +1,43 @@
-<!DOCTYPE html>
-<html class="writer-html5" lang="en" >
-<head>
+<!doctype html>
+<html lang="en-US">
+  <head>
     <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="author" content="Celso Nery" />
-      <link rel="shortcut icon" href="/img/favicon.ico" />
-    <title>English Study</title>
-    <link rel="stylesheet" href="/css/theme.css" />
-    <link rel="stylesheet" href="/css/theme_extra.css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
-    
-    <script src="/js/jquery-3.6.0.min.js" defer></script>
-    <!--[if lt IE 9]>
-      <script src="/js/html5shiv.min.js"></script>
-    <![endif]-->
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
-      <script>hljs.initHighlightingOnLoad();</script> 
-</head>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content="VuePress 2.0.0-rc.19" />
+    <style>
+      :root {
+        --vp-c-bg: #fff;
+      }
 
-<body class="wy-body-for-nav" role="document">
+      [data-theme='dark'] {
+        --vp-c-bg: #1b1b1f;
+      }
 
-  <div class="wy-grid-for-nav">
-    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
-    <div class="wy-side-scroll">
-      <div class="wy-side-nav-search">
-          <a href="/." class="icon icon-home"> English Study
-        </a><div role="search">
-  <form id ="rtd-search-form" class="wy-form" action="//search.html" method="get">
-      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
-  </form>
-</div>
-      </div>
+      html,
+      body {
+        background-color: var(--vp-c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme')
+      const systemDarkMode =
+        'matchMedia' in window
+          ? window.matchMedia('(prefers-color-scheme: dark)').matches
+          : false
 
-      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
-              <ul>
-                <li class="toctree-l1"><a class="reference internal" href="/.">Home</a>
-                </li>
-              </ul>
-              <p class="caption"><span class="caption-text">Activities</span></p>
-              <ul>
-                  <li class="toctree-l1"><a class="reference internal" href="/activities/activities/">Activities</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/activities/dialogs/">Dialogs</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/activities/texts/">Texts</a>
-                  </li>
-              </ul>
-              <p class="caption"><span class="caption-text">Musics</span></p>
-              <ul>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/adele-hello/">Adele - Hello</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/adele-someone_like_you/">Adele - Someone like you</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/aha-take_on_me/">A-ha - Take on me</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/a_ha-you_are_the_one/">A-ha - You are the one</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/alphaville-forever_young/">Alphaville - Forever yound</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/berlim-take_my_breath_away/">Berlim - Take my breath away</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/bruno_mars-when_i_was_your_man/">Bruno Mars - When I was you man</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/celine_dion-beauty_and_the_beast/">Celine Dion - Beauty and the beast</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/celine_dion-my_heart_will_go_on/">Celine Dion - My heart will go on</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/christina_perry-a_thousand_years/">Christina Perry - A thousand years</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/chubby_checker-lets_twist_again/">Chubby Checker - Lets twist again</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/coldplay-clocks/">ColdPlay - Clocks</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/coldplay-in_my_place/">ColdPlay - In my place</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/coldplay-viva_la_vida/">ColdPlay - Viva la vida</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/cyndi_lauper-time_after_time/">Cundi Lauper - Timer after time</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/cyndi_lauper-true_colors/">Cundi Lauper - True colors</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/depeche_mode-strangelove/">Depeche Mode - Strange Love</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/dire_straits-brothers_in_arms/">Dire Straits - Brothers in arms</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/dire_straits-money_for_nothing/">Dire Straits - Money for nothing</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/dire_straits-so_far_away/">Dire Straits - So far away</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/dire_straits-walk_of_life/">Dire Straits - Walk of life</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/dire_straits-why_worry/">Dire Straits - Why worry</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/ed_sheeran-perfect/">Ed Sheeran - Perfect</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/evanescence-bring_me_to_life/">Evanescence - Bring me to life</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/evanescence-bring_me_to_life/">Evanescence - Bring me to life</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/evanescence-lithium/">Evanescence - Lithium</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/glenn_frey-the_heat_is_on/">Glenn Frey - The heat is on</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/guns_n_roses-sweet_child_o_mine/">Guns in roses - Sweet child o mine</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/jhon_legend-all_of_me/">Jhon Legend - All of me</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/jhon_lennon-imagine/">Jhon Lennon - Imagine</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/kenny_loggins-footloose/">Kenny Loggins - Footloose</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/lewis_capaldi-someone_you_loved_en/">Lewis Capaldi - Someone you loved</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/louis_armstrong-what_a_wonderful_world/">Lous Armstrong - What a wonderfull world</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/men_at_work-overkill/">Mem at work - Overkill</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/queen-how_can_i_go_on/">Queen - How can I go on</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/queen-love_of_my_life/">Queen - Love of my life</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/queen-we_are_the_champions/">Queen - We are the champions</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/roxette-it_must_have_been_love/">Roxette - It must have been love</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/roxette-listen_to_your_heart/">Roxette - Listen to your heart</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/roxette-spending_my_time/">Roxette - Spending my time</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/simple_minds-dont_you_forget_about_me/">Simple Minds - Dont you forget about me</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/simple_minds-mandela_day/">Simple Minds - Mandela day</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/sinead_o_connor-nothing_compares_2u/">Sinead o Connor - Nothing compares to you</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/survivor-eyes_of_the_tiger/">Survivor - Eyes of the tiger</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/tears_for_fears-everybody_wants_to_rule_the_world/">Tears for Fears - Everybody wants to rule the world</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/tears_for_fears-woman_in_chains/">Tears for Fears - Woman in chains</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/the_cure-boys_dont_cry/">The Cure - Boys dont cry</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/the_human_league-human/">The Human League - Human</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/toni_braxton-how_could_an_angel_break_my_heart/">Tony Braxton - How could an angel break my heart</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/toni_braxton-spanish_guitar/">Tony Braxton - Spanish guitar</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/toni_braxton-unbreak_my_heart/">Tony Braxton - Unbreak my heart</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/u2-angel_of_halem/">U2 - Angel of halem</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/u2-bad/">U2 - Bad</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/u2-every_breaking_wave/">U2 - Every breaking wave</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/u2-i_still_havent_found_what_im_looking_for/">U2 - I still havent found what in looking for</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/u2-new_years_day/">U2 - New years day</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="/musics/u2-sunday_bloody_sunday/">U2 - Sunday bloody sunday</a>
-                  </li>
-              </ul>
-      </div>
-    </div>
-    </nav>
-
-    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
-      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
-          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-          <a href="/.">English Study</a>
-        
-      </nav>
-      <div class="wy-nav-content">
-        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
-  <ul class="wy-breadcrumbs">
-    <li><a href="/." class="icon icon-home" aria-label="Docs"></a> &raquo;</li>
-    <li class="wy-breadcrumbs-aside">
-    </li>
-  </ul>
-  <hr/>
-</div>
-          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
-            <div class="section" itemprop="articleBody">
-              
-
-  <h1 id="404-page-not-found">404</h1>
-
-  <p><strong>Page not found</strong></p>
-
-
-            </div>
-          </div><footer>
-
-  <hr/>
-
-  <div role="contentinfo">
-    <!-- Copyright etc -->
-  </div>
-
-  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
-</footer>
-          
-        </div>
-      </div>
-
-    </section>
-
-  </div>
-
-  <div class="rst-versions" role="note" aria-label="Versions">
-  <span class="rst-current-version" data-toggle="rst-current-version">
-    
-        <span>
-          <a href="https://github.com/celsonery/english-study" class="fa fa-github" style="color: #fcfcfc"> GitHub</a>
-        </span>
-    
-    
-    
-  </span>
-</div>
-    <script>var base_url = '/';</script>
-    <script src="/js/theme_extra.js" defer></script>
-    <script src="/js/theme.js" defer></script>
-      <script src="/search/main.js" defer></script>
-    <script defer>
-        window.onload = function () {
-            SphinxRtdTheme.Navigation.enable(true);
-        };
+      if (userMode === 'light') {
+        document.documentElement.dataset.theme = 'light'
+      } else if (userMode === 'dark' || systemDarkMode) {
+        document.documentElement.dataset.theme = 'dark'
+      }
     </script>
-
-</body>
+    <link rel="icon" href="/images/hero.png"><title>This my English Study</title><meta name="description" content="Just playing around">
+    <link rel="preload" href="/assets/style-PoWje89h.css" as="style"><link rel="stylesheet" href="/assets/style-PoWje89h.css">
+    <link rel="modulepreload" href="/assets/app-DOetaOKj.js"><link rel="modulepreload" href="/assets/404.html-DXjoPBFq.js">
+    <link rel="prefetch" href="/assets/index.html-lqTk4VJA.js" as="script"><link rel="prefetch" href="/assets/activities.html-5huRbcdT.js" as="script"><link rel="prefetch" href="/assets/dialogs.html-jI2_ya39.js" as="script"><link rel="prefetch" href="/assets/texts.html-BY3IRKEp.js" as="script"><link rel="prefetch" href="/assets/index.html-BJewP5Y_.js" as="script"><link rel="prefetch" href="/assets/a_ha-you_are_the_one.html-Cjj5VS-c.js" as="script"><link rel="prefetch" href="/assets/adele-hello.html-DqAyf5zt.js" as="script"><link rel="prefetch" href="/assets/adele-someone_like_you.html-Cd5Q81lM.js" as="script"><link rel="prefetch" href="/assets/aha-take_on_me.html-Bae2qr5H.js" as="script"><link rel="prefetch" href="/assets/alphaville-forever_young.html-BncDhXeU.js" as="script"><link rel="prefetch" href="/assets/berlim-take_my_breath_away.html-S71cv0fd.js" as="script"><link rel="prefetch" href="/assets/bruno_mars-when_i_was_your_man.html-DdAPmJ60.js" as="script"><link rel="prefetch" href="/assets/celine_dion-beauty_and_the_beast.html-DREhx5lc.js" as="script"><link rel="prefetch" href="/assets/celine_dion-my_heart_will_go_on.html-CIBwlAf7.js" as="script"><link rel="prefetch" href="/assets/christina_perry-a_thousand_years.html-CAxfv4Y1.js" as="script"><link rel="prefetch" href="/assets/chubby_checker-lets_twist_again.html-BQEV42Z7.js" as="script"><link rel="prefetch" href="/assets/coldplay-clocks.html-D2oVpMW3.js" as="script"><link rel="prefetch" href="/assets/coldplay-in_my_place.html-XLoTocCC.js" as="script"><link rel="prefetch" href="/assets/coldplay-viva_la_vida.html-DmCE2CSu.js" as="script"><link rel="prefetch" href="/assets/cyndi_lauper-time_after_time.html-BZcJoMby.js" as="script"><link rel="prefetch" href="/assets/cyndi_lauper-true_colors.html-BAxgPq-J.js" as="script"><link rel="prefetch" href="/assets/depeche_mode-strangelove.html-BUlxAewD.js" as="script"><link rel="prefetch" href="/assets/dire_straits-brothers_in_arms.html-CTuc6q6G.js" as="script"><link rel="prefetch" href="/assets/dire_straits-money_for_nothing.html-BPJD_Kpg.js" as="script"><link rel="prefetch" href="/assets/dire_straits-so_far_away.html-BQM7NciB.js" as="script"><link rel="prefetch" href="/assets/dire_straits-walk_of_life.html-tdvsz7-2.js" as="script"><link rel="prefetch" href="/assets/dire_straits-why_worry.html-eSG4EhMm.js" as="script"><link rel="prefetch" href="/assets/ed_sheeran-perfect.html-CRIYAfBL.js" as="script"><link rel="prefetch" href="/assets/evanescence-bring_me_to_life.html-BZT0S-P9.js" as="script"><link rel="prefetch" href="/assets/evanescence-lithium.html-Dsi417J6.js" as="script"><link rel="prefetch" href="/assets/glenn_frey-the_heat_is_on.html-_Lyy_UMP.js" as="script"><link rel="prefetch" href="/assets/guns_n_roses-sweet_child_o_mine.html-QMkFIkxZ.js" as="script"><link rel="prefetch" href="/assets/jhon_legend-all_of_me.html-DhM7wW4O.js" as="script"><link rel="prefetch" href="/assets/jhon_lennon-imagine.html-DBSY5EZk.js" as="script"><link rel="prefetch" href="/assets/kenny_loggins-footloose.html-DBOUKLh6.js" as="script"><link rel="prefetch" href="/assets/lewis_capaldi-someone_you_loved_en.html-DWkIjhCw.js" as="script"><link rel="prefetch" href="/assets/louis_armstrong-what_a_wonderful_world.html-D0fj8QX9.js" as="script"><link rel="prefetch" href="/assets/men_at_work-overkill.html-BrUyEfSJ.js" as="script"><link rel="prefetch" href="/assets/queen-how_can_i_go_on.html-BOwHjlT4.js" as="script"><link rel="prefetch" href="/assets/queen-love_of_my_life.html-eisAa2ck.js" as="script"><link rel="prefetch" href="/assets/queen-we_are_the_champions.html-jNpaBpP3.js" as="script"><link rel="prefetch" href="/assets/roxette-it_must_have_been_love.html-DuU2jijx.js" as="script"><link rel="prefetch" href="/assets/roxette-listen_to_your_heart.html-D0YO2a4S.js" as="script"><link rel="prefetch" href="/assets/roxette-spending_my_time.html-DUbLpYtq.js" as="script"><link rel="prefetch" href="/assets/simple_minds-dont_you_forget_about_me.html-DeQbgfVB.js" as="script"><link rel="prefetch" href="/assets/simple_minds-mandela_day.html-B563ZP7T.js" as="script"><link rel="prefetch" href="/assets/sinead_o_connor-nothing_compares_2u.html-D-9hBeQF.js" as="script"><link rel="prefetch" href="/assets/survivor-eyes_of_the_tiger.html-C2ae2SmB.js" as="script"><link rel="prefetch" href="/assets/tears_for_fears-everybody_wants_to_rule_the_world.html-C-sE0ewT.js" as="script"><link rel="prefetch" href="/assets/tears_for_fears-woman_in_chains.html-Bd-VdR9h.js" as="script"><link rel="prefetch" href="/assets/the_cure-boys_dont_cry.html-TP-DaTR3.js" as="script"><link rel="prefetch" href="/assets/the_human_league-human.html-DW7Sq39U.js" as="script"><link rel="prefetch" href="/assets/toni_braxton-how_could_an_angel_break_my_heart.html-CRkNdeAS.js" as="script"><link rel="prefetch" href="/assets/toni_braxton-spanish_guitar.html-DyrvUODj.js" as="script"><link rel="prefetch" href="/assets/toni_braxton-unbreak_my_heart.html-UtCIP6yZ.js" as="script"><link rel="prefetch" href="/assets/u2-angel_of_halem.html-CXIrGMoF.js" as="script"><link rel="prefetch" href="/assets/u2-bad.html-YViAfLHS.js" as="script"><link rel="prefetch" href="/assets/u2-every_breaking_wave.html-C0tz-NB-.js" as="script"><link rel="prefetch" href="/assets/u2-i_still_havent_found_what_im_looking_for.html-CUqzYwMt.js" as="script"><link rel="prefetch" href="/assets/u2-new_years_day.html-DCdK4g-J.js" as="script"><link rel="prefetch" href="/assets/u2-sunday_bloody_sunday.html-CCDG4UB9.js" as="script"><link rel="prefetch" href="/assets/setupDevtools-7MC2TMWH-4j1v6g8S.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="vp-theme-container" vp-container data-v-67c08c1d><main class="page" data-v-67c08c1d><div class="theme-default-content" vp-content data-v-67c08c1d><h1 data-v-67c08c1d>404</h1><blockquote data-v-67c08c1d>There&#39;s nothing here.</blockquote><a class="route-link" href="/" data-v-67c08c1d>Take me home</a></div></main></div><!--[--><!----><!--]--><!--]--></div>
+    <script type="module" src="/assets/app-DOetaOKj.js" defer></script>
+  </body>
 </html>
