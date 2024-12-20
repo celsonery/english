@@ -1,0 +1,58 @@
+# Roxette - It Must Have Been Love
+
+| English | Português BR |
+|------:|:--------------------|
+| It must have been love but it's over now |
+|  |
+| Lay a whisper on my pillow |
+| Leave the winter on the ground |
+| I wake up lonely, there's air of silence |
+| In the bedroom and all around (and all around) |
+|  |
+| Touch me now, I close my eyes |
+| And dream away |
+|  |
+| It must have been love but it's over now |
+| It must have been good but I lost it somehow |
+| It must have been love but it's over now |
+| From the moment we touched 'til the time had run out |
+|  |
+| Make-believing we're together |
+| That I'm sheltered by your heart |
+| But in and outside I've turned to water |
+| Like a teardrop in your palm |
+|  |
+| And it's a hard winter's day |
+| I dream away |
+|  |
+| It must have been love but it's over now |
+| (It must have been love but it's over now) |
+| It was all that I wanted, now I'm living without |
+| It must have been love but it's over now |
+| (It must have been love, the winds blows) |
+| It's where the water flows |
+| It's where the wind blows |
+|  |
+| It must have been love but it's over now |
+| (It must have been love but it's over now) |
+| It must have been good but I lost it somehow |
+| It must have been love but it's over now |
+| (It must have been love but it's over now) |
+| From the moment we touched 'til the time had run out |
+|  |
+| Yeah! it must have been love but it's over now |
+| (It must have been love but it's over now) |
+| It was all that I wanted, now I'm living without |
+| It must have been love but it's over now |
+| (The winds blows) |
+| It's where the water flows |
+| It's where the wind blows |
+|  |
+| Ohh! |
+|  |
+| (It must have been love but it's over now) |
+| But it's over now |
+| Now! |
+| (It must have been love but it's over now) |
+| (It must have been love but it's over now) |
+| Now! |
